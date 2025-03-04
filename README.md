@@ -15,7 +15,7 @@ This project analyzes the Superstore dataset, draws out meaningful insights that
 
 ## Data Preparation
 - Removing of duplicates
-- Accessment for completeness and correct spelling
+- Assessment for completeness and correct spelling
 
 ## Exploratory Data Analysis
 - What are the three countries that generated the highest total profit for Global
